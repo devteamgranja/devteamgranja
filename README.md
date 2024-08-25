@@ -4,7 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devteamgranja&show_icons=true&locale=pt-BR" alt="devteamgranja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devteamgranja&theme=dark" alt="devteamgranja" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devteamgranja&theme=default" alt="devteamgranja" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devteamgranja&label=Profile%20views&color=0e75b6&style=flat" alt="devteamgranja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devteamgranja" alt="devteamgranja" /></a> </p>
