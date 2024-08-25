@@ -1,4 +1,4 @@
-<h1 align="center">Olá Dev 👋, somos a DevTeam Granja</h1>
+<h1 align="center">Olá👋, somos a DevTeam Granja</h1>
 <h3 align="center">Apaixonados por codar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devteamgranja&label=Profile%20views&color=0e75b6&style=flat" alt="devteamgranja" /> </p>
