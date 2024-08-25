@@ -1,6 +1,10 @@
 <h1 align="center">Olá Dev 👋, somos DevTeam Granja</h1>
 <h3 align="center">Apaixonados por codar</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devteamgranja&show_icons=true&locale=pt-BR&layout=compact" alt="devteamgranja" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devteamgranja&show_icons=true&locale=pt-BR" alt="devteamgranja" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devteamgranja&theme=dark" alt="devteamgranja" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devteamgranja&label=Profile%20views&color=0e75b6&style=flat" alt="devteamgranja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devteamgranja" alt="devteamgranja" /></a> </p>
@@ -30,8 +34,4 @@
 <h3 align="left">Suporte:</h3>
 <p><a href="https://www.buymeacoffee.com/devteamgranja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devteamgranja" /></a><a href="https://ko-fi.com/devteamgranja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devteamgranja" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devteamgranja&show_icons=true&locale=pt-BR&layout=compact" alt="devteamgranja" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devteamgranja&show_icons=true&locale=pt-BR" alt="devteamgranja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devteamgranja&theme=dark" alt="devteamgranja" /></p>
